@@ -1,5 +1,5 @@
 # IBO an Imaging Biomarker Ontology
-The Imaging Biomarker Ontology describes radiological measurements that characterize biological processes (such as anisotropic water diffusion in a particular tissue region) of imaged subjects (such as neuro-imaging observations) and help clinicians, particularly in the assessment of therapeutic responses and the early prediction of pathologies. 
+The Imaging Biomarker Ontology (OWL version) describes radiological measurements that characterize biological processes (such as anisotropic water diffusion in a particular tissue region) of imaged subjects (such as neuro-imaging observations) and help clinicians, particularly in the assessment of therapeutic responses and the early prediction of pathologies. 
 
 IBO is aligned to the [Basic Formal Ontology (BFO)](https://obofoundry.org/ontology/bfo.html) and  reuses several relevant biomedical ontologies:
 * [Phenotype And Trait Ontology (PATO)](https://obofoundry.org/ontology/pato.html)
