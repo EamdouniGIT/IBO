@@ -7,7 +7,7 @@ IBO is aligned to the [Basic Formal Ontology (BFO)](https://obofoundry.org/ontol
 * [Gene Ontology (GO)](https://obofoundry.org/ontology/go.html)
 * [Chemical Entities of Biological Interest (Chebi)](https://obofoundry.org/ontology/go.html)
 * [Human Disease Ontology (DOID)](https://obofoundry.org/ontology/doid.html)
-* 
+* [Foundational Model of Anatomy ontology](https://obofoundry.org/ontology/fma.html)
 To IBO ontology is available on IBO V1, please check the import of all the modules before reusing the ontology.
 
 # Related publications 
