@@ -18,4 +18,4 @@ To IBO ontology is available on IBO V1, please check the import of all the modul
 Emna Amdouni (LTSI laboratory, University of Rennes 1 & Inserm)
 proemnaamdouni@gmail.com
 Bernard Gibaud (LTSI laboratory, University of Rennes 1 & Inserm)
-Beranrd.gibaud@
+Beranrd.gibaud@univ-rennes1.fr
